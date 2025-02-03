@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "becuyeric:item/golden_sword_je3_be2"
+	}
+}

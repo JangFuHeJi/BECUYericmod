@@ -45,6 +45,12 @@ public class ItemGroups implements ModInitializer {
             .displayName(Text.translatable("itemgroup.becuyeric.zhicai"))
             .entries((Context, entries) -> {
                 entries.add(Eric_052);
+                entries.add(Ilikebvvd);
+                entries.add(wcn);
+                entries.add(dengji1);
+                entries.add(dengji2);
+                entries.add(miaosha);
+                entries.add(miaoshamuch);
             })
             .build();
     public static final ItemGroup http = FabricItemGroup.builder()

@@ -3,10 +3,12 @@ package com.eric.tools;
 import net.minecraft.item.ToolMaterial;
 import net.minecraft.recipe.Ingredient;
 
-public class Eric_052 implements ToolMaterial {
+import javax.tools.Tool;
+
+public class wcn implements ToolMaterial {
     @Override
     public int getDurability() {
-        return 60;
+        return 55;
     }
 
     @Override

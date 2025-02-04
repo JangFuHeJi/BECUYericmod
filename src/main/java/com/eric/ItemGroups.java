@@ -59,8 +59,14 @@ public class ItemGroups implements ModInitializer {
             .entries((Context, entries) -> {
                 entries.add(gold);
                 entries.add(gold_block);
+                entries.add(gold_wblock);
                 entries.add(gold_weapon);
             })
+            .build();
+    public static final ItemGroup Server = FabricItemGroup.builder()
+            .icon(() -> new ItemStack(welcome))
+            .displayName(Text.translatable("itemgroup.becuyeric.server"))
+            .entries((Context, entries) -> entries.add(welcome))
             .build();
     @Override
     public void onInitialize() {
@@ -68,5 +74,6 @@ public class ItemGroups implements ModInitializer {
         Registry.register(Registries.ITEM_GROUP, new Identifier(MOD_ID, "becuyservereconitems"),BecuyServerEconItems);
         Registry.register(Registries.ITEM_GROUP, new Identifier(MOD_ID, "zhicai"),ZhiCai);
         Registry.register(Registries.ITEM_GROUP, new Identifier(MOD_ID, "http"),http);
+        Registry.register(Registries.ITEM_GROUP, new Identifier(MOD_ID, "server"),Server);
     }
 }

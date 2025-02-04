@@ -1,10 +1,10 @@
 {
   "item.becuyeric.joinserver": "加入服务器",
   "item.becuyeric.queue": "购买优先队列",
-  "item.becuyeric.miantain": "维护7天 服务器被攻击",
-  "item.becuyeric.miantain2": "维护30天 服务器被攻击",
-  "item.becuyeric.miantain3": "维护7天 服务器正常维护",
-  "item.becuyeric.miantain4": "维护30天 服务器正常维护",
+  "block.becuyeric.miantain": "维护7天 服务器被攻击",
+  "block.becuyeric.miantain2": "维护30天 服务器被攻击",
+  "block.becuyeric.miantain3": "维护7天 服务器正常维护",
+  "block.becuyeric.miantain4": "维护30天 服务器正常维护",
   "item.becuyeric.becuymoney_1": "一元by币",
   "item.becuyeric.becuymoney_10": "10元by币",
   "item.becuyeric.becuymoney_50": "50元by币",
@@ -19,12 +19,14 @@
   "item.becuyeric.dengji2": "等级2",
   "item.becuyeric.miaosha": "秒杀棒",
   "item.becuyeric.gold_weapon": "金剑",
-  "item.becuyeric.miantain5": "服务器维护1天 服务器被攻击",
-  "item.becuyeric.miantain6": "服务器维护1天 服务器正常维护",
+  "item.becuyeric.miaoshamuch": "超级秒杀棒",
   "block.becuyeric.gold_block": "金块",
+  "block.becuyeric.gold_wblock": "满金块",
+  "block.becuyeric.welcome": "服务器欢迎进入方块",
   "itemgroup.becuyeric.gold": "交易",
   "block.becuyeric.spring_festival_activity": "舞台背景",
   "itemgroup.becuyeric.becuyservermaintain": "服务器维护(未完成)",
   "itemgroup.becuyeric.becuyservereconitems": "服务器经济相关",
-  "itemgroup.beciuyeric.becuyserverlunar": "服务器除夕跨年"
+  "itemgroup.beciuyeric.becuyserverlunar": "服务器除夕跨年",
+  "itemgroup.becuyeric.server": "服务器相关"
 }

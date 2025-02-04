@@ -1,10 +1,10 @@
 {
   "item.becuyeric.joinserver": "Join BECUY Server",
   "item.becuyeric.queue": "Buy Priority Queue",
-  "item.becuyeric.miantain": "Maintain 7 days attacked",
-  "item.becuyeric.miantain2": "Maintain 30 days attacked",
-  "item.becuyeric.miantain3": "Maintain 7 days maintain",
-  "item.becuyeric.miantain4": "Maintain 30 days maintain",
+  "block.becuyeric.miantain": "Maintain 7 days attacked",
+  "block.becuyeric.miantain2": "Maintain 30 days attacked",
+  "block.becuyeric.miantain3": "Maintain 7 days maintain",
+  "block.becuyeric.miantain4": "Maintain 30 days maintain",
   "item.becuyeric.becuymoney_1": "By money of 1 yuan",
   "item.becuyeric.becuymoney_10": "By money of 10 yuan",
   "item.becuyeric.becuymoney_50": "By money of 50 yuan",
@@ -18,13 +18,15 @@
   "item.becuyeric.dengji1": "DengJi 1 Tools",
   "item.becuyeric.dengji2": "DengJi 2 Tools",
   "item.becuyeric.miaosha": "Miaosha Tools",
+  "item.becuyeric.miaoshamuch": "Much Miaosha Tools",
   "item.becuyeric.gold_weapon": "gold_tools",
-  "item.becuyeric.miantain5": "Server Maintain 1 day attacked",
-  "item.becuyeric.miantain6": "Server Maintain 1 day maintain",
   "block.becuyeric.gold_block": "Gold Block",
+  "block.becuyeric.gold_wblock": "Glock Any Block",
+  "block.becuyeric.welcome": "BECUY Server Welcome Block",
   "itemgroup.becuyeric.gold": "Buy",
   "block.becuyeric.spring_festival_activity": "Spring Festival",
   "itemgroup.becuyeric.becuyservermaintain": "Server Maintain",
   "itemgroup.becuyeric.becuyservereconitems": "Server Econ Items",
-  "itemgroup.beciuyeric.becuyserverlunar": "BecuyServerLunar"
+  "itemgroup.beciuyeric.becuyserverlunar": "BecuyServerLunar",
+  "itemgroup.becuyeric.server": "Server"
 }

@@ -54,6 +54,7 @@ public class BECUYeric implements ModInitializer {
 	public static final dengji2 dengji2 = new dengji2(new com.eric.tools.dengji2(),15,-0.8f,new Item.Settings());
 	public static final miaosha miaosha = new miaosha(new com.eric.tools.miaosha(),100,-0.8f,new Item.Settings());
 	public static final miaoshamuch miaoshamuch = new miaoshamuch(new com.eric.tools.miaoshamuch(),1000,1f,new Item.Settings());
+	public static final dengji3 dengji3 = new dengji3(new com.eric.tools.dengji3(),10000,1f,new Item.Settings());
 	@Override
 	public void onInitialize() {
 		//物品服务器相关
@@ -111,5 +112,6 @@ public class BECUYeric implements ModInitializer {
 		Registry.register(Registries.ITEM, new Identifier(MOD_ID, "dengji2"), dengji2);
 		Registry.register(Registries.ITEM, new Identifier(MOD_ID, "miaosha"), miaosha);
 		Registry.register(Registries.ITEM, new Identifier(MOD_ID, "miaoshamuch"), miaoshamuch);
+		Registry.register(Registries.ITEM, new Identifier(MOD_ID, "dengji3"), dengji3);
 	}
 }
